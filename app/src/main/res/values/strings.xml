@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Words Game</string>
+    <string name="app_name">BabbelGame</string>
+    <string name="done">OK</string>
+    <string name="game_end_dialog_headline">Great job!</string>
+    <string name="FetchWords">Fetching Some Words</string>
 </resources>

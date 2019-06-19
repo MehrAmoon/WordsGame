@@ -1,4 +1,4 @@
-package babbel.amoon.app.wordsgamegit;
+package babbel.amoon.app.wordsgame;
 
 import org.junit.Test;
 

@@ -33,6 +33,7 @@ public class Game {
     public static String CheckAnsewer(Boolean MustBeCorrect) {
         if (MustBeCorrect)
             Score = "correct";
+        else Score = "wrong";
 
         return Score;
     }
